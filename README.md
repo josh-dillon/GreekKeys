@@ -5,4 +5,4 @@ To use, install and launch AutoHotkey.
 
 Load the script.
 
-Requires the standard Greek monotonic keyboard installed in MS Office to be active.
+Requires the standard Greek monotonic keyboard in MS Office to be active.
