@@ -1,5 +1,5 @@
 # GreekKeys
-ahk script that ports Donald Mastronarde's GreekKeys polytonic Greek keyboard layout to Windows 11
+ahk script that ports the macOS version of Donald Mastronarde's GreekKeys polytonic Greek keyboard layout to Windows 11
 
 To use, install and launch AutoHotkey.
 
